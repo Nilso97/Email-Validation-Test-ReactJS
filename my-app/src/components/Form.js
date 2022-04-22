@@ -22,7 +22,7 @@ function Form() {
     return (
         <>
             <form onSubmit={formValidation}>
-                <h3>Validação de E-mail</h3>
+                <h2>Validação de E-mail</h2>
                 <input
                     type="email"
                     id="email"
